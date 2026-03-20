@@ -138,13 +138,6 @@ dmypy.json
 .env.local
 .env.*.local
 
-# Model files (large files - should be tracked separately)
-*.pth
-*.pt
-*.h5
-*.pkl
-*.pickle
-
 # Data directories
 data/
 datasets/
